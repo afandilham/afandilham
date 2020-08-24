@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Vue js**
 - 📫 How to reach me: [afandilham](https://twitter.com/afandilham)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: Deep learning Vue js about 3 months :)
+- ⚡ Fun fact: Deep learned Vue js for 3 months :)
 
 [![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham)](https://github.com/afandilham)
 
