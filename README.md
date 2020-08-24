@@ -3,10 +3,10 @@
 <!--
 **afandilham/afandilham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning Node js
-- 👯 I’m looking to collaborate on Vue js
+- 🌱 I’m currently learning **Node js**
+- 👯 I’m looking to collaborate on **Vue js**
 - 📫 How to reach me: [afandilham](https://twitter.com/afandilham)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Deep learning Vue js about 3 months :)
 
 [![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham)](https://github.com/afandilham)
