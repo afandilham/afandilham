@@ -9,7 +9,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: Deep learned Vue js for 3 months :)
 
-[![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham&theme=vue-dark&show_icons=true)](https://github.com/afandilham)
+[![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true)](https://github.com/afandilham)
 
 **Tech Stack**
 <br>
