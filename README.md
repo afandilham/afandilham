@@ -3,7 +3,7 @@
 <!--
 **afandilham/afandilham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Node js + Typescript**
 - 👯 I’m looking to collaborate on **Vue js**
 - 📫 How to reach me: [afandilham](https://twitter.com/afandilham)
 - 😄 Pronouns: **He/Him**
