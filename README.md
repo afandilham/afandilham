@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Node js + Typescript**
 - 👯 I’m looking to collaborate on **Vue js**
 - 📫 How to reach me: [afandilham](https://twitter.com/afandilham)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: Deep learned Vue js for 3 months :)
 
 [![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true)](https://github.com/afandilham)
 
