@@ -8,7 +8,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true)](https://github.com/afandilham)
+  
+  <img align="center" alt="afandilham Stats" src="https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true">
 </details>
 
 **Tech**
