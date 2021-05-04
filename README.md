@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **AWS + Deep Dive Node.js**
 - 📫 How to reach me: <afandilham@gmail.com>
 
-*** Now Playing 🎧
+### Now Playing 🎧
+
 [<img src="https://spotify-now-playing-mu-navy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qorlmkpoo2nkop1y5zys1rj5n?si=6786880eb4394ddb)
 
 <details>
