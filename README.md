@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning **AWS + Deep Dive Node.js**
 - 📫 How to reach me: <afandilham@gmail.com>
 
-[![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true)](https://github.com/afandilham)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  [![Afandilham Stats](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true)](https://github.com/afandilham)
+</details>
 
 **Tech**
 <br>
