@@ -13,7 +13,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="center" alt="afandilham Stats" src="https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true">
+  <img align="center" style="width='20px'" alt="afandilham Stats" src="https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true">
+</details>
+
+<details>
+  <summary>:zap: Most used Languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 **Tech**
