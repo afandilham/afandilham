@@ -13,7 +13,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="center" style="width='20px'" alt="afandilham Stats" src="https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true&hide_border=true">
+  <img align="center" style="width='10px'" alt="afandilham Stats" src="https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true&hide_border=true">
 </details>
 
 <details>
