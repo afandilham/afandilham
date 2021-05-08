@@ -13,7 +13,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![Github Stat](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true&hide_border=true)]("https://github.com/afandilham")
+  [![Github Stat](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true)]("https://github.com/afandilham")
 </details>
 
 <details>
