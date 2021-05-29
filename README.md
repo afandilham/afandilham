@@ -4,7 +4,6 @@
 **afandilham/afandilham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🌱 I’m currently learning **AWS + Deep Dive Node.js**
-- 📫 How to reach me: <afandilham@gmail.com>
 
 ### Now Playing 🎧
 
