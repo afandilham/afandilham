@@ -11,13 +11,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![Github Stat](https://github-readme-stats.vercel.app/api?username=marejivari&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true)]("https://github.com/marejivari")
 </details>
 
 <details>
   <summary>:zap: Most used Languages</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marejivari&layout=compact&theme=algolia)]("https://github.com/marejivari")
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afandilham&layout=compact&theme=algolia)]("https://github.com/afandilham")
 </details>
 
 **Tech**
