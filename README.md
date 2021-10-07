@@ -21,6 +21,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afandilham&theme=algolia)]("https://github.com/afandilham")
 </details>
 
+<details>
+  <summary>:zap: Code stats</summary>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
 **Tech**
 <br>
 <img height="30px" widht="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
