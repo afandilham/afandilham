@@ -25,7 +25,10 @@
   <summary>:zap: Code stats</summary>
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 </details>
 
 **Tech**
