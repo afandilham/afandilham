@@ -18,7 +18,7 @@
 <details>
   <summary>:zap: Most used Languages</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afandilham&layout=compact&theme=algolia)]("https://github.com/afandilham")
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afandilham&theme=algolia)]("https://github.com/afandilham")
 </details>
 
 **Tech**
