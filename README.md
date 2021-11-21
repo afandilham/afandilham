@@ -1,7 +1,7 @@
 <!--
 **afandilham/afandilham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Hello there I'm <a href="https://github.com/afandilham">Ilham Afandi</a>
+# Hello there i'm <a href="https://github.com/afandilham">Ilham Afandi</a>
 
 <details>
   <summary>:zap: Now Playing 🎧</summary>
