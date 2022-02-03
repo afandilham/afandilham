@@ -7,7 +7,7 @@
   <summary>:zap: About me</summary>
   
 - 🌱 I’m currently learning Nuxt js, and Laravel.
-- Love doing some either little or bigger projects about frontend
+- 👨‍💻 Love doing some either little or bigger projects about frontend
   
 </details>
 
