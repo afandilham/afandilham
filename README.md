@@ -4,6 +4,12 @@
 # Hello there i'm <a href="https://github.com/afandilham">Ilham Afandi</a>
 
 <details>
+  <summary>:zap: About me</summary>
+  - 🌱 I’m currently learning Nuxt js, and Laravel.
+  - Love doing some either little or bigger projects about frontend
+</details>
+
+<details>
   <summary>:zap: Now Playing 🎧</summary>
 
 [<img src="https://spotify-now-playing-mu-navy.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qorlmkpoo2nkop1y5zys1rj5n?si=6786880eb4394ddb)
@@ -11,6 +17,7 @@
 </details>
   
 <details>
+  
   <summary>:zap: GitHub Stats</summary>
   
   [![Github Stat](https://github-readme-stats.vercel.app/api?username=afandilham&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true)]("https://github.com/afandilham")
