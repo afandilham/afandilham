@@ -6,7 +6,7 @@
 <details>
   <summary>:zap: About me</summary>
   
-- 🌱 I’m currently learning Nuxtjs and Typescript.
+- 🌱 I’m currently learning Nuxtjs (still waiting for stable release for Nuxt 3) and Typescript.
 - ⭐ I like eating 🍍, listening to music 🎶, playing game 🎮, watching anime 📺
 - 👨‍💻 Love doing some either little or bigger projects about frontend
   
