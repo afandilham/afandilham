@@ -74,6 +74,6 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="20px" widht="20px" src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt="gsap"></code>
-
+<code><img height="20px" widht="20px" src="https://seeklogo.com/images/S/svelte-logo-E3497608CB-seeklogo.com.png" alt="svelte"></code>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afandilham.afandilham)
