@@ -7,6 +7,7 @@
   <summary>:zap: About me</summary>
   
 - 🌱 I’m currently learning Nuxtjs and Typescript.
+- ⭐ I like eating 🍍, listening to music 🎶, playing game 🎮, watching anime 📺
 - 👨‍💻 Love doing some either little or bigger projects about frontend
   
 </details>
