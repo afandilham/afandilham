@@ -58,15 +58,15 @@ HTML         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="20px" widht="20px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDB"></code>
-<code><img height="20px" widht="20px" src="https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg" alt="supabase"></code>
-<code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 
 #### Framework/Tools
 
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-</code><img height="20px" widht="20px" src="https://miro.medium.com/max/724/1*5QD8DKhOjRe-gcYjozlLNQ.png" alt="tailwind"></code>
+<code><img height="20px" widht="20px" src="https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg" alt="supabase"></code>
+<code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase"></code>
+<code><img height="20px" widht="20px" src="https://miro.medium.com/max/724/1*5QD8DKhOjRe-gcYjozlLNQ.png" alt="tailwind"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
