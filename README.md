@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning React and Typescript.
 - ⭐ I like eating 🍍, listening to music 🎶, playing game 🎮, watching anime 📺
-- 👨‍💻 Love doing some either little or bigger projects about frontend
+- 👨‍💻 Love doing some either tiny or bigger projects about frontend
   
 </details>
 
