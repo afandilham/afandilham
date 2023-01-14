@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Most used Languages</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afandilham&layout=compact&langs_count=8&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afandilham&layout=compact&langs_count=8&theme=prussian">
 
 </details>
 
