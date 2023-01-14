@@ -23,7 +23,7 @@
   
   <summary>:zap: GitHub Stats</summary>
   
-  [![Github Stat](https://github-readme-stats.vercel.app/api?username=afandilham&show_icons=true&theme=algolia)]("https://github.com/afandilham")
+  <img src="https://github-readme-stats.vercel.app/api?username=afandilham&show_icons=true&theme=algolia">
   
 </details>
 
