@@ -23,7 +23,7 @@
   
   <summary>:zap: GitHub Stats</summary>
   
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/afandilham?cardType=octocat&theme=prussian)](https://git.io/awesome-stats-card)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/afandilham?cardType=octocat&theme=github-dark)](https://git.io/awesome-stats-card)
   
 </details>
 
