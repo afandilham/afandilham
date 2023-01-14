@@ -23,7 +23,7 @@
   
   <summary>:zap: GitHub Stats</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=afandilham&show_icons=true&theme=algolia">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/afandilham?cardType=octocat&theme=prussian)](https://git.io/awesome-stats-card)
   
 </details>
 
