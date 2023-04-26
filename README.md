@@ -73,4 +73,4 @@ JSON         9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 #### Interested in
 
-<code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" alt="astro"></code>
+<code><img height="20px" widht="20px" src="https://avatars.githubusercontent.com/u/44914786?s=280&v=4" alt="astro"></code>
