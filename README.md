@@ -74,3 +74,4 @@ JSON         9 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 #### Interested in
 
 <code><img height="20px" widht="20px" src="https://avatars.githubusercontent.com/u/44914786?s=280&v=4" alt="astro"></code>
+<code><img height="20px" widht="20px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="astro"></code>
