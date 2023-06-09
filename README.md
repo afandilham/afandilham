@@ -6,7 +6,7 @@
 <details>
   <summary>:zap: About me</summary>
   
-- 🌱 I’m currently learning Nuxt 3 Typescript and Astro.
+- 🌱 I’m currently learning PHP and Astro.
 - ⭐ I like eating 🍍, listening to music 🎶, playing game 🎮, watching anime/movie 📺
 - 👨‍💻 Love doing some either tiny or bigger projects about frontend
   
