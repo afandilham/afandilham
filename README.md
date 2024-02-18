@@ -40,7 +40,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP   1 hr 19 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.70 %
+SQL   12 mins         ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.30 %
 ```
 
 <!--END_SECTION:waka-->
