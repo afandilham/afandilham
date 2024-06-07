@@ -62,6 +62,8 @@ Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 #### Framework/Tools
 
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
+<code><img height="20px" widht="20px" src="https://banner2.cleanpng.com/20191103/btz/transparent-js-icon-logo-icon-react-icon-5dbea1da3071a5.5168401015727743621985.jpg" alt="react"></code>
+<code><img height="20px" widht="20px" src="https://avatars.githubusercontent.com/u/44914786?s=280&v=4" alt="astro"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"></code>
 <code><img height="20px" widht="20px" src="https://miro.medium.com/max/724/1*5QD8DKhOjRe-gcYjozlLNQ.png" alt="tailwind"></code>
 <code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
@@ -72,5 +74,5 @@ Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 #### Interested in
 
-<code><img height="20px" widht="20px" src="https://avatars.githubusercontent.com/u/44914786?s=280&v=4" alt="astro"></code>
-<code><img height="20px" widht="20px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="astro"></code>
+<code><img height="20px" widht="20px" src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="nextjs"></code>
+
