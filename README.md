@@ -6,7 +6,7 @@
 <details>
   <summary>:zap: About me</summary>
   
-- 🌱 I’m currently learning Laravel and Astro.
+- 🌱 I’m currently learning Nextjs, droping Laravel ⬇️
 - ⭐ I like eating 🍍, listening to music 🎶, playing game 🎮, watching anime/movie 📺
 - 👨‍💻 Love doing some either tiny or bigger projects about frontend
   
