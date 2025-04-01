@@ -6,9 +6,9 @@
 <details>
   <summary>:zap: About me</summary>
   
-- 🌱 I’m currently learning Nextjs, droping Laravel ⬇️
+- 🌱 ...
 - ⭐ I like eating 🍍, listening to music 🎶, playing game 🎮, watching anime/movie 📺
-- 👨‍💻 Love doing some either tiny or bigger projects about frontend
+- 👨‍💻 Love doing some either random tiny or bigger projects
   
 </details>
 
