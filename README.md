@@ -63,4 +63,4 @@ No activity tracked
 
 #### Interested in
 
-<code><img height="20px" widht="20px" src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="nextjs"></code>
+<code><img height="20px" widht="20px" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171073.png" alt="golang"></code>
