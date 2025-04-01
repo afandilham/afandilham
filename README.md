@@ -11,14 +11,6 @@
 - 👨‍💻 Love doing some either tiny or bigger projects about frontend
   
 </details>
-  
-<details>
-  
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![Afandilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=afandilham&show_icons=true&theme=radical)
-  
-</details>
 
 <details>
   <summary>:zap: Most used Languages</summary>
