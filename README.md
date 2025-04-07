@@ -56,3 +56,4 @@ No activity tracked
 #### Interested in
 
 <code><img height="20px" widht="20px" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171073.png" alt="golang"></code>
+<code><img height="20px" widht="20px" src="https://raw.githubusercontent.com/sveltejs/branding/refs/heads/master/svelte-logo-square.png" alt="svelte"></code>
